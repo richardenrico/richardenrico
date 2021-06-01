@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=richardenrico&show_icons=true&theme=tokyonight&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=richardenrico&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardenrico&show_icons=true&theme=tokyonight)
 
